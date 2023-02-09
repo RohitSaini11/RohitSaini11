@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohitSaini11
 - 👀 I’m interested in M E R N
-- 🌱 I’m currently learning Express.js
+- 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on Full Stack Web Projects
 - 📫 How to reach me Email at rs0118032@gmail.com 
 
