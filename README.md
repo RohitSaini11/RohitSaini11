@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RohitSaini11
-- 👀 I’m interested in M E R N
-- 🌱 I’m currently learning REACT
-- 💞️ I’m looking to collaborate on Full Stack Web Projects
+- 👀 I’m interested in Frontend Development Techonologies and Methodology
+- 🌱 I’m currently learning Typescript and Next.js
+- 💞️ I’m looking to contribute on Opne Source Projects
 - 📫 How to reach me Email at rs0118032@gmail.com 
 
 <!---
